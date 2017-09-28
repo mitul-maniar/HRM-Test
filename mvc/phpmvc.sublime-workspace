@@ -1,0 +1,1221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"tota",
+				"total_money"
+			],
+			[
+				"total",
+				"total_reg"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"console",
+				"console.log();"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"len",
+				"lenobj"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"coll",
+				"college"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"conten",
+				"align-content"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"txt",
+				"txtHint2"
+			],
+			[
+				"tx",
+				"txidin"
+			],
+			[
+				"confi",
+				"Confirm"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"sta",
+				"stat"
+			],
+			[
+				"sh",
+				"showup"
+			],
+			[
+				"qu",
+				"query2"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"mysql_fec",
+				"mysql_fetch_field"
+			],
+			[
+				"js",
+				"JSON"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"alert",
+				"alertPopup"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"clear",
+				"clearStorage"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"w3",
+				"w3-container"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"QR",
+				"QRScanner"
+			],
+			[
+				"bor",
+				"border-bottom-style"
+			],
+			[
+				"border-bot",
+				"border-bottom-style"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"wor",
+				"wordApi"
+			],
+			[
+				"q",
+				"query1"
+			],
+			[
+				"print",
+				"printdir"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"su",
+				"summaryf"
+			],
+			[
+				"return",
+				"returnlist"
+			],
+			[
+				"ret",
+				"returnlist"
+			],
+			[
+				"dictm",
+				"dictmale"
+			],
+			[
+				"fname",
+				"fname1"
+			],
+			[
+				"fna",
+				"fname2"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"v",
+				"v\tvariable"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"mamm",
+				"mammals"
+			],
+			[
+				"ne",
+				"nextInt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes.php",
+			"settings":
+			{
+				"buffer_size": 868,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/layout.php",
+			"settings":
+			{
+				"buffer_size": 269,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/posts/index.php",
+			"settings":
+			{
+				"buffer_size": 217,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/posts/show.php",
+			"settings":
+			{
+				"buffer_size": 108,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 278,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "models/post.php",
+			"settings":
+			{
+				"buffer_size": 1134,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp64/www/Jazba17/includes/Connection.php",
+			"settings":
+			{
+				"buffer_size": 321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/pages_controller.php",
+			"settings":
+			{
+				"buffer_size": 257,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/posts_controller.php",
+			"settings":
+			{
+				"buffer_size": 610,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/pages/home.php",
+			"settings":
+			{
+				"buffer_size": 118,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/pages/error.php",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "connection.php",
+			"settings":
+			{
+				"buffer_size": 440,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 185.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/php_mvc",
+		"/C/wamp64/www/php_mvc/controllers",
+		"/C/wamp64/www/php_mvc/models",
+		"/C/wamp64/www/php_mvc/views",
+		"/C/wamp64/www/php_mvc/views/posts"
+	],
+	"file_history":
+	[
+		"/C/wamp64/bin/apache/apache2.4.23/conf/httpd.conf",
+		"/C/wamp64/www/php_mvc/views/layout.php",
+		"/C/wamp64/www/php_mvc/index.php",
+		"/C/wamp64/www/php_mvc/connection.php",
+		"/G/TV Shows/Ultimate Top Gear Pack V.3.1/Top Gear/Season 17 HD/Top Gear - 17x05 - 1080I.ts",
+		"/C/Users/Suraj/Desktop/HRMS/HRMS/README.md",
+		"/C/Users/Suraj/Desktop/blah.py",
+		"/C/Users/Suraj/Desktop/2blah.py",
+		"/C/Users/Suraj/Desktop/try.csv",
+		"/C/Users/Suraj/Desktop/unique.csv",
+		"/C/wamp64/www/Jazba/includes/Connection.php",
+		"/C/wamp64/www/Jazba/Summary.php",
+		"/C/wamp64/www/Jazba17/Summary.php",
+		"/C/wamp64/www/Jazba17/includes/Connection.php",
+		"/C/wamp64/www/protal/include/connection.php",
+		"/C/Users/Suraj/Desktop/Jazba17/Summary.php",
+		"/C/initmysql.txt",
+		"/C/Users/Suraj/Desktop/jzwrite.py",
+		"/C/Users/Suraj/Desktop/Jazba17/includes/Connection.php",
+		"/C/Users/Suraj/Desktop/Sem 7/INS/playfair.py",
+		"/C/Users/Suraj/Desktop/Python3/mock.py",
+		"/C/Users/Suraj/Desktop/Python3/testdoc.py",
+		"/C/Users/Suraj/Desktop/Projects/mockV.py",
+		"/C/Users/Suraj/Desktop/Projects/mock2.py",
+		"/C/Users/Suraj/Desktop/Python3/distinctHeights.py",
+		"/C/Users/Suraj/Desktop/Projects/oopc.cpp",
+		"/C/Users/Suraj/Desktop/Chatbot/index.js",
+		"/C/Users/Suraj/Desktop/Projects/trial.sh",
+		"/C/Users/Suraj/Desktop/Projects/string.cpp",
+		"/C/Users/Suraj/Desktop/TX Dev/TX2017 App www/www/js/app.js",
+		"/C/Users/Suraj/Desktop/TX Dev/TX2017 App www/www/index.html",
+		"/C/Users/Suraj/Desktop/Projects/DesignEngg/HUDControl/www/js/app.js",
+		"/C/Users/Suraj/Desktop/Projects/DesignEngg/HUDControl/www/index.html",
+		"/C/Users/Suraj/Desktop/Python3/fizzbuzz.py",
+		"/C/Users/Suraj/Desktop/Chatbot/Procfile",
+		"/C/Users/Suraj/Desktop/Projects/SE/testenv0.1/www/js/app.js",
+		"/C/Users/Suraj/Desktop/Projects/SE/testenv0.1/www/index.html",
+		"/C/Users/Suraj/Desktop/Projects/SE/IonApp/www/js/app.js",
+		"/C/Users/Suraj/Desktop/Projects/SE/testenv0.1/package.json",
+		"/C/Users/Suraj/Desktop/Projects/SE/IonApp/www/index.html",
+		"/C/Users/Suraj/AppData/Local/Temp/Rar$DIa0.000/Readme.md",
+		"/C/Users/Suraj/Desktop/Projects/SE/IonApp/plugins/cordova-plugin-device-motion/src/android/AccelListener.java",
+		"/C/Users/Suraj/Desktop/Projects/SE/IonApp/plugins/cordova-plugin-device-motion/README.md",
+		"/C/Users/Suraj/Desktop/Projects/SE/IonApp/plugins/cordova-plugin-device-sensor-fusion/src/android/SensorFusionPlugin.java",
+		"/C/Users/Suraj/Desktop/Projects/SE/test2/src/pages/home/home.html"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"instance",
+			"span4",
+			"span3",
+			"includes/",
+			"include/css",
+			"$total_groups",
+			"> \"",
+			">\"",
+			"</td>",
+			"<td>50</td>",
+			"Maximum",
+			"and status=1",
+			"Maximum",
+			".com",
+			"total_reg",
+			"amount",
+			"  and status=1",
+			"and status=1",
+			"include/co",
+			"https://tx01.000webhostapp.com",
+			"https://tx01.000webhostapp.com/",
+			"amount",
+			"$reg",
+			"$result002",
+			"result002",
+			"$total_reg",
+			"$total_reg ",
+			"$total_reg",
+			"total_reg",
+			"$total_verified",
+			"students",
+			"style=\"color:red\"",
+			"mini_militia",
+			"$solo-un-minito",
+			"solo_un_minito",
+			"$band_&_instrumentation",
+			"band_&_instrumentation",
+			"mine_o_bot",
+			"sphinx_912",
+			"race_x",
+			"tetrech",
+			"tech_ken",
+			"need_for_sight",
+			"result25",
+			"solo-un-minito",
+			"arduino_controller",
+			"Arduino Controller",
+			"3d_printing",
+			"threed_printing",
+			"3D Printing",
+			"GROUP",
+			"group",
+			"solo-un-mito",
+			"laser_warfare",
+			"Laser Warfare",
+			"quizzeria",
+			"Quizzeria",
+			"colrefs",
+			"Colrefs",
+			"trafficca",
+			"Trafficca",
+			"sky_scraper",
+			"seismism",
+			"Seismism",
+			"junkyard_wars",
+			"Junkyard Wars",
+			"war_kabbadi",
+			"War Kabbadi",
+			"bot_street",
+			"Bot Street",
+			"hot_shot",
+			"Hot Shot",
+			"coster_saga",
+			"Coster Saga",
+			"mech_man",
+			"Mech-Man",
+			"whats_your_app",
+			"Whats Your App",
+			"find_the_keys",
+			"Find the keys",
+			"logo_arena",
+			"Logo Arena",
+			"sherlock_2",
+			"Sherlock 2.o",
+			"//",
+			"$roadies",
+			"2.0",
+			"result3",
+			"shower",
+			"roadies",
+			"fifa_11",
+			"FIFA 11",
+			"hunger",
+			"nfs_most_wanted",
+			"NFS-Most Wanted",
+			"speed_cubing",
+			"Speed Cubing",
+			"math_survivors",
+			"Math $urvivors",
+			"metricks",
+			"Metricks",
+			"code_it",
+			"Code IT",
+			"hunt_that_code",
+			"Hunt That Code",
+			"blind_coding",
+			"Blind Coding",
+			"Math $urvivors",
+			"math_survivors",
+			"speed_cubing",
+			"Speed Cubing",
+			"metricks",
+			"Metricks",
+			"blind_coding",
+			"Blind Coding",
+			"single",
+			"group",
+			"\t",
+			"arr",
+			"instr",
+			"string",
+			"parseInt",
+			"curr",
+			"service",
+			"TYPE_GYROSCOPE",
+			"TYPE_GRAVITY",
+			"TYPE_LINEAR_ACCELERATION",
+			"TYPE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"span5",
+			"span4",
+			"css/",
+			"includes",
+			"",
+			"includes/Co",
+			"blah",
+			"",
+			"$solo_un_minito",
+			"solo-un-minito",
+			"$band_n_instrumentation",
+			"jashn_e_bahara",
+			"skit",
+			"band_&_instrumentation",
+			"singing",
+			"dancing",
+			"ramp_walk",
+			"solo_un_minito",
+			"dancing",
+			"Dancing",
+			"ramp_walk",
+			"Ramp Walk",
+			"solo-un-minito",
+			"dangal_dangal",
+			"Sumo Warfare",
+			"the_housie_mania",
+			"House Mania",
+			"solo-un-mito",
+			"One Minute",
+			"mini_militia",
+			"Mini Military",
+			"quidditch",
+			"bollywood_quiz",
+			"Bollywood Quiz",
+			"sur_ae_sargam",
+			"Antakshari",
+			"street_theatre",
+			"Street Theatre",
+			"the_quizomare",
+			"The Quizomare",
+			"dhundhte_reh_jaoge",
+			"Treasure Hunt",
+			"master_chef_of_git",
+			"GIT Master Chef",
+			"grillo_leggy",
+			"Grillo Leggy",
+			"solveit_drawit",
+			"Solve It Draw It",
+			"instant_drawing",
+			"Instant Drawing",
+			"blind_art",
+			"Blind Art",
+			"kolam_art",
+			"Kolam Art",
+			"2.o",
+			"roadies_x_2.0",
+			"Roadies 2.0",
+			"on_the_beats_of_shower",
+			"Bathroom Singer",
+			"keench_meri_photo",
+			"Kench Meri Photo",
+			"hunger_ki_bajao",
+			"Hunger ki Bajao",
+			"tee_design",
+			"Tee Design",
+			"creative_hands",
+			"Creative Hands",
+			"lets_blah_blah",
+			"Let's Blah Blah",
+			"kavyabandh",
+			"Kavyabandh",
+			"kavyabandh",
+			"kolam_art",
+			"Kolam Art",
+			"lets_blah_blah",
+			"Let's Blah Blah",
+			"kavyabandh",
+			"Kavyabandh",
+			"  ",
+			"alpha",
+			"parseFloat",
+			"TYPE_SIGNIFICANT_MOTION",
+			"TYPE_GYROSCOPE",
+			"TYPE_GRAVITY",
+			"TYPE_LINEAR_ACCELERATION",
+			"500",
+			"< 6.5",
+			"Math.abs",
+			"rotaBuff_",
+			"accBuff_",
+			" and status=1\",$con);",
+			"status=1\",$con); echo 1;",
+			" and status=1\",$con);",
+			" var showup =  fn+\" \"+ln+\"\\n\"+eno+\"\\n\"+col+  \"\\n\" + stry;",
+			" ",
+			"\"events\"",
+			"+stat",
+			"+stat;",
+			"result",
+			" = showup.toLowerCase()",
+			"\\n",
+			"<br />",
+			"\\n",
+			"div ",
+			"div",
+			"disabled",
+			"(",
+			"<div",
+			"</div>",
+			"            <div style=\"padding-right: 1em;\">\n",
+			"class=\"button ion-button button-block button-positive\" ",
+			"class=\"button button-block button-positive\" type= \"submit\" ",
+			"class=\"button button-block button-positive\" type= \"submit\"",
+			" | ",
+			"statusModal",
+			"coord_id",
+			"coord-id",
+			"txid",
+			"192.168.0.109",
+			"localhost",
+			"ffffff",
+			"carttemplate",
+			"Details",
+			"returnList",
+			"arr2",
+			".index(p)",
+			".index(j)",
+			".index(i)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								868,
+								868
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/layout.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/posts/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								217
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/posts/show.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "models/post.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1134,
+								1134
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/wamp64/www/Jazba17/includes/Connection.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "controllers/pages_controller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "controllers/posts_controller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "views/pages/home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "views/pages/error.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "connection.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "phpmvc.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
